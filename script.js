@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
   var firstFocusableElement = closeButton;
 
   var popupDelay = 5000;
-  var popupStorageKey = "careerLaunchPopupSeen";
-  var emailStorageKey = "careerLaunchEmails";
+  var popupStorageKey = "nexusInstitudePopupSeen";
+  var emailStorageKey = "nexusInstitudeEmails";
   var popupTimer;
   var popupClosed = false;
 
